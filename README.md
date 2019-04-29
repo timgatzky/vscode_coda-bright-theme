@@ -1,0 +1,1 @@
+# Coda Bright Theme for VS Code

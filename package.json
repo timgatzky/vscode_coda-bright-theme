@@ -1,0 +1,22 @@
+{
+	"name": "coda-bright-theme",
+	"displayName": "Coda Bright",
+	"description": "Coda Bright Theme. Based on Coda Bright theme from Coda 2",
+	"version": "1.0.0",
+	"publisher": "timgatzky",
+	"engines": {
+		"vscode": "^1.25.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Coda Bright",
+				"uiTheme": "vs",
+				"path": "./themes/coda-bright-theme.json"
+			}
+		]
+	}
+}
