@@ -10,7 +10,7 @@
 			},
 		},
 		{
-			"scope": "keyword, storage, language.property, markup.tag, style.property.name, keyword.other.namespace, keyword.other.new, keyword.operator.new, support.function.construct",
+			"scope": "keyword, storage, language.property, markup.tag, style.property.name, keyword.other.namespace, keyword.other.use, keyword.other.use-as, keyword.other.new, keyword.operator.new, support.function.construct",
 			"settings": 
 			{
 				"foreground": "#0045aa"
