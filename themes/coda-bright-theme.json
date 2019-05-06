@@ -17,7 +17,7 @@
 			}
 		},
 		{
-			"scope": "string, string.regexp.single.quoted, meta.function-call string",
+			"scope": "string, string.regexp.single.quoted, meta.function-call string, string keyword.other, string keyword.operator",
 			"settings": 
 			{
 				"foreground": "#dd2400"
