@@ -149,7 +149,7 @@
 		},
 		// php in class="" tags
 		{
-			"scope": "meta.attribute string source.php",
+			"scope": "meta.attribute string punctuation.definition.begin,meta.attribute string punctuation.definition.end, meta.attribute punctuation.terminator",
 			"settings": {
 				"foreground": "#000000"
 			}
