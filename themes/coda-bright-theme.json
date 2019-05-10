@@ -147,5 +147,13 @@
 				"foreground": "#DE7A31"
 			}
 		},
+		// php in class="" tags
+		{
+			"scope": "meta.attribute string source.php",
+			"settings": {
+				"foreground": "#000000"
+			}
+		},
+		
 	]
 }
