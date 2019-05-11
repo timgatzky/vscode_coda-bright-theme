@@ -109,6 +109,13 @@
 				"foreground": "#000000"
 			}
 		},
+		// php in javascript
+		{
+			"scope": "source.js source.php variable",
+			"settings": {
+				"foreground": "#8735a5"
+			}
+		},
 		// JSON
 		{
 			"scope": "source.json string support.type",
