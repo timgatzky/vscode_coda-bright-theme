@@ -156,9 +156,15 @@
 		},
 		// php in class="" tags
 		{
-			"scope": "meta.attribute string punctuation.definition.begin,meta.attribute string punctuation.definition.end, meta.attribute punctuation.terminator",
+			"scope": "meta.attribute string punctuation.definition.begin,meta.attribute string punctuation.definition.end, meta.attribute punctuation.terminator, meta.attribute string punctuation.section",
 			"settings": {
 				"foreground": "#000000"
+			}
+		},
+		{
+			"scope": "meta.attribute string source.php string",
+			"settings": {
+				"foreground": "#dd2400"
 			}
 		},
 		
