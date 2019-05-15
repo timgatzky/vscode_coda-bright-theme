@@ -156,7 +156,7 @@
 		},
 		// php in class="" tags
 		{
-			"scope": "meta.attribute string punctuation.definition.begin,meta.attribute string punctuation.definition.end, meta.attribute punctuation.terminator, meta.attribute string punctuation.section",
+			"scope": "meta.attribute string source.php support, meta.attribute string source.php meta.method-call, meta.attribute string punctuation.definition.begin,meta.attribute string punctuation.definition.end, meta.attribute punctuation.terminator, meta.attribute string punctuation.section",
 			"settings": {
 				"foreground": "#000000"
 			}
