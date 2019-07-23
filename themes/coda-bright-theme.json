@@ -3,7 +3,7 @@
 	"tokenColors":
 	[
 		{
-			"scope": "comment, keyword.other",
+			"scope": "comment, comment keyword",
 			"settings": 
 			{
 				"foreground": "#197020"
@@ -44,7 +44,7 @@
 			}
 		},
 		{
-			"scope": "support.function, source.php keyword.other",
+			"scope": "support.function",
 			"settings": 
 			{
 				"foreground": "#400080"
