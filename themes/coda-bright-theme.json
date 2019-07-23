@@ -44,7 +44,7 @@
 			}
 		},
 		{
-			"scope": "support.function",
+			"scope": "support.function, source.php keyword.other",
 			"settings": 
 			{
 				"foreground": "#400080"
