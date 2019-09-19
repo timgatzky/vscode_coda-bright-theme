@@ -17,17 +17,10 @@
 			}
 		},
 		{
-			"scope": "string, string.regexp.single.quoted, string.regexp.single-quoted, meta.function-call string, string source.sql keyword.other, string source.sql keyword.operator",
+			"scope": "string, meta.function-call string, string source.sql keyword.other, string source.sql keyword.operator",
 			"settings": 
 			{
 				"foreground": "#dd2400"
-			}
-		},
-		{
-			"scope": "string.regexp, keyword.operator.regexp",
-			"settings": 
-			{
-				"foreground": "#5d8f00"
 			}
 		},
 		{
@@ -74,6 +67,13 @@
 			"scope": "punctuation.section.embedded",
 			"settings": {
 				"foreground": "#878787"
+			}
+		},
+		{
+			"scope": "string.regexp keyword.operator",
+			"settings": 
+			{
+				"foreground": "#dd2400"
 			}
 		},
 		// php
