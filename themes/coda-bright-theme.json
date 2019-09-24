@@ -24,7 +24,7 @@
 			}
 		},
 		{
-			"scope": "keyword.operator, meta.class, meta.namespace, variable.other.property, entity.name.type.module",
+			"scope": "keyword.operator, meta.class, meta.namespace, variable.other.property, entity.name.type.module, punctuation.definition.begin, punctuation.definition.end",
 			"settings": {
 				"foreground": "#000000"
 			}
@@ -71,6 +71,14 @@
 		},
 		{
 			"scope": "string.regexp keyword.operator",
+			"settings": 
+			{
+				"foreground": "#dd2400"
+			}
+		},
+		// inner strings
+		{
+			"scope": "string constant.numeric",
 			"settings": 
 			{
 				"foreground": "#dd2400"
