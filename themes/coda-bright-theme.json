@@ -109,7 +109,7 @@
 			"settings": {
 				"foreground": "#5d8f00"
 			}
-		},
+		},		
 		// javascript
 		{
 			"scope": "source.js variable, source.js variable.parameter",
@@ -122,6 +122,12 @@
 			"scope": "source.js source.php variable",
 			"settings": {
 				"foreground": "#8735a5"
+			}
+		},
+		{
+			"scope": "source.js source.php punctuation.terminator, source.js source.php support, source.js source.php punctuation.definition.arguments, source.js source.php punctuation.section",
+			"settings": {
+				"foreground": "#000000"
 			}
 		},
 		// JSON
