@@ -44,7 +44,7 @@
 			}
 		},
 		{
-			"scope": "variable, variable.parameter, source.php meta.class punctuation.definition.variable",
+			"scope": "variable, variable.parameter, source.php meta.class variable.other punctuation.definition.variable",
 			"settings": 
 			{
 				"foreground": "#8735a5"
